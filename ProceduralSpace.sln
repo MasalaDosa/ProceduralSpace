@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralSpace", "ProceduralSpace\ProceduralSpace.csproj", "{6123AA30-385F-47E9-A143-694AE579924B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1FED1497-21E5-4E32-BA1C-85325D242A6F}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6123AA30-385F-47E9-A143-694AE579924B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6123AA30-385F-47E9-A143-694AE579924B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6123AA30-385F-47E9-A143-694AE579924B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6123AA30-385F-47E9-A143-694AE579924B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
