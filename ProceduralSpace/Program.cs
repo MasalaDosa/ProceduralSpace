@@ -25,7 +25,7 @@ namespace ProceduralSpace
         {
             // Initialise player's location
             var r = new Random();
-            playerLocation = new UPoint((uint)r.Next(int.MaxValue), (uint)r.Next(int.MaxValue));
+            playerLocation = new UPoint((uint)r.Next(0xffff), (uint)r.Next(0xffff));
             state = State.Galaxy;
         }
 
